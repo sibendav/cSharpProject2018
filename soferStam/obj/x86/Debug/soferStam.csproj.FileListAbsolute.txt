@@ -1,0 +1,804 @@
+F:\שמחה בן דוד\soferStam\soferStam\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\שמחה בן דוד\soferStam\soferStam\obj\x86\Debug\soferStam.Properties.Resources.resources
+F:\שמחה בן דוד\soferStam\soferStam\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\שמחה בן דוד\soferStam\soferStam\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\שמחה בן דוד\soferStam\soferStam\bin\Debug\soferStam.exe
+F:\שמחה בן דוד\soferStam\soferStam\bin\Debug\soferStam.pdb
+F:\שמחה בן דוד\soferStam\soferStam\obj\x86\Debug\soferStam.exe
+F:\שמחה בן דוד\soferStam\soferStam\obj\x86\Debug\soferStam.pdb
+F:\שמחה בן דוד\soferStam\soferStam\obj\x86\Debug\soferStam.GUI.Form1.resources
+F:\שמחה בן דוד\soferStam\soferStam\obj\x86\Debug\soferStam.GUI.frmKlaf.resources
+F:\שמחה בן דוד\soferStam\soferStam\obj\x86\Debug\soferStam.GUI.frmListKlafim.resources
+F:\שמחה בן דוד\soferStam\soferStam\obj\x86\Debug\soferStam.GUI.frmListMazminim.resources
+F:\שמחה בן דוד\soferStam\soferStam\obj\x86\Debug\soferStam.GUI.frmAbodatStam.resources
+F:\שמחה בן דוד\soferStam\soferStam\obj\x86\Debug\soferStam.GUI.frmHazmana.resources
+F:\שמחה בן דוד\soferStam\soferStam\obj\x86\Debug\soferStam.GUI.frmListAbodotStam.resources
+F:\שמחה בן דוד\soferStam\soferStam\obj\x86\Debug\soferStam.GUI.frmListHazmanot.resources
+F:\שמחה בן דוד\soferStam\soferStam\obj\x86\Debug\soferStam.GUI.frmMazmin.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\soferStam\soferStam\obj\x86\Debug\soferStam.exe
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\soferStam\soferStam\obj\x86\Debug\soferStam.pdb
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\soferStam\soferStam\bin\Debug\soferStam.exe
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\soferStam\soferStam\bin\Debug\soferStam.pdb
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\soferStam\soferStam\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\soferStam\soferStam\obj\x86\Debug\soferStam.GUI.Form1.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\soferStam\soferStam\obj\x86\Debug\soferStam.GUI.frmAbodatStam.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\soferStam\soferStam\obj\x86\Debug\soferStam.GUI.frmHazmana.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\soferStam\soferStam\obj\x86\Debug\soferStam.GUI.frmKlaf.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\soferStam\soferStam\obj\x86\Debug\soferStam.GUI.frmListAbodotStam.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\soferStam\soferStam\obj\x86\Debug\soferStam.GUI.frmListHazmanot.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\soferStam\soferStam\obj\x86\Debug\soferStam.GUI.frmListKlafim.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\soferStam\soferStam\obj\x86\Debug\soferStam.GUI.frmListMazminim.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\soferStam\soferStam\obj\x86\Debug\soferStam.GUI.frmMazmin.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\soferStam\soferStam\obj\x86\Debug\soferStam.Properties.Resources.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\soferStam\soferStam\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\soferStam\soferStam\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\ד' בניסן\soferStam\obj\x86\Debug\soferStam.exe
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\ד' בניסן\soferStam\obj\x86\Debug\soferStam.pdb
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\ד' בניסן\soferStam\bin\Debug\soferStam.exe
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\ד' בניסן\soferStam\bin\Debug\soferStam.pdb
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\ד' בניסן\soferStam\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\ד' בניסן\soferStam\obj\x86\Debug\soferStam.GUI.Form1.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\ד' בניסן\soferStam\obj\x86\Debug\soferStam.GUI.frmAbodatStam.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\ד' בניסן\soferStam\obj\x86\Debug\soferStam.GUI.frmHazmana.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\ד' בניסן\soferStam\obj\x86\Debug\soferStam.GUI.frmKlaf.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\ד' בניסן\soferStam\obj\x86\Debug\soferStam.GUI.frmListAbodotStam.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\ד' בניסן\soferStam\obj\x86\Debug\soferStam.GUI.frmListHazmanot.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\ד' בניסן\soferStam\obj\x86\Debug\soferStam.GUI.frmListKlafim.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\ד' בניסן\soferStam\obj\x86\Debug\soferStam.GUI.frmListMazminim.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\ד' בניסן\soferStam\obj\x86\Debug\soferStam.GUI.frmListPirtieHazmana.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\ד' בניסן\soferStam\obj\x86\Debug\soferStam.GUI.frmMazmin.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\ד' בניסן\soferStam\obj\x86\Debug\soferStam.Properties.Resources.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\ד' בניסן\soferStam\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\ד' בניסן\soferStam\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\ד' בניסן\soferStam\obj\x86\Debug\soferStam.GUI.frmInfo.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\ד' בניסן\soferStam\obj\x86\Debug\soferStam.GUI.frmListHespekim.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\ד' בניסן\soferStam\obj\x86\Debug\soferStam.GUI.frmListSogKlaf.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\ד' בניסן\soferStam\obj\x86\Debug\soferStam.GUI.frmHespekim.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\ד' בניסן\soferStam\obj\x86\Debug\soferStam.GUI.frmPirteHazmana.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\ד' בניסן\soferStam\obj\x86\Debug\soferStam.GUI.frmSogKlaf.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\ה' בניסן\soferStam\obj\x86\Debug\soferStam.exe
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\ה' בניסן\soferStam\obj\x86\Debug\soferStam.pdb
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\ה' בניסן\soferStam\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\ה' בניסן\soferStam\obj\x86\Debug\soferStam.GUI.Form1.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\ה' בניסן\soferStam\obj\x86\Debug\soferStam.GUI.frmAbodatStam.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\ה' בניסן\soferStam\obj\x86\Debug\soferStam.GUI.frmHazmana.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\ה' בניסן\soferStam\obj\x86\Debug\soferStam.GUI.frmHespekim.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\ה' בניסן\soferStam\obj\x86\Debug\soferStam.GUI.frmInfo.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\ה' בניסן\soferStam\obj\x86\Debug\soferStam.GUI.frmKlaf.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\ה' בניסן\soferStam\obj\x86\Debug\soferStam.GUI.frmListAbodotStam.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\ה' בניסן\soferStam\obj\x86\Debug\soferStam.GUI.frmListHazmanot.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\ה' בניסן\soferStam\obj\x86\Debug\soferStam.GUI.frmListHespekim.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\ה' בניסן\soferStam\obj\x86\Debug\soferStam.GUI.frmListKlafim.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\ה' בניסן\soferStam\obj\x86\Debug\soferStam.GUI.frmListMazminim.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\ה' בניסן\soferStam\obj\x86\Debug\soferStam.GUI.frmListPirtieHazmana.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\ה' בניסן\soferStam\obj\x86\Debug\soferStam.GUI.frmListSogKlaf.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\ה' בניסן\soferStam\obj\x86\Debug\soferStam.GUI.frmMazmin.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\ה' בניסן\soferStam\obj\x86\Debug\soferStam.GUI.frmPirteHazmana.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\ה' בניסן\soferStam\obj\x86\Debug\soferStam.GUI.frmSogKlaf.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\ה' בניסן\soferStam\obj\x86\Debug\soferStam.Properties.Resources.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\ה' בניסן\soferStam\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\ה' בניסן\soferStam\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\ה' בניסן\soferStam\bin\Debug\soferStam.exe
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\ה' בניסן\soferStam\bin\Debug\soferStam.pdb
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כו' ניסן\soferStam\obj\x86\Debug\soferStam.exe
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כו' ניסן\soferStam\obj\x86\Debug\soferStam.pdb
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כו' ניסן\soferStam\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כו' ניסן\soferStam\obj\x86\Debug\soferStam.GUI.Form1.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כו' ניסן\soferStam\obj\x86\Debug\soferStam.GUI.frmAbodatStam.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כו' ניסן\soferStam\obj\x86\Debug\soferStam.GUI.frmHazmana.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כו' ניסן\soferStam\obj\x86\Debug\soferStam.GUI.frmHespekim.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כו' ניסן\soferStam\obj\x86\Debug\soferStam.GUI.frmInfo.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כו' ניסן\soferStam\obj\x86\Debug\soferStam.GUI.frmKlaf.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כו' ניסן\soferStam\obj\x86\Debug\soferStam.GUI.frmListAbodotStam.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כו' ניסן\soferStam\obj\x86\Debug\soferStam.GUI.frmListHazmanot.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כו' ניסן\soferStam\obj\x86\Debug\soferStam.GUI.frmListHespekim.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כו' ניסן\soferStam\obj\x86\Debug\soferStam.GUI.frmListKlafim.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כו' ניסן\soferStam\obj\x86\Debug\soferStam.GUI.frmListMazminim.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כו' ניסן\soferStam\obj\x86\Debug\soferStam.GUI.frmListPirtieHazmana.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כו' ניסן\soferStam\obj\x86\Debug\soferStam.GUI.frmListSogKlaf.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כו' ניסן\soferStam\obj\x86\Debug\soferStam.GUI.frmMazmin.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כו' ניסן\soferStam\obj\x86\Debug\soferStam.GUI.frmPirteHazmana.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כו' ניסן\soferStam\obj\x86\Debug\soferStam.GUI.frmSogKlaf.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כו' ניסן\soferStam\obj\x86\Debug\soferStam.Properties.Resources.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כו' ניסן\soferStam\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כו' ניסן\soferStam\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כו' ניסן\soferStam\bin\Debug\soferStam.exe
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כו' ניסן\soferStam\bin\Debug\soferStam.pdb
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כז ניסן\soferStam\obj\x86\Debug\soferStam.exe
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כז ניסן\soferStam\obj\x86\Debug\soferStam.pdb
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כז ניסן\soferStam\bin\Debug\soferStam.exe
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כז ניסן\soferStam\bin\Debug\soferStam.pdb
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כז ניסן\soferStam\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כז ניסן\soferStam\obj\x86\Debug\soferStam.GUI.Form1.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כז ניסן\soferStam\obj\x86\Debug\soferStam.GUI.frmAbodatStam.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כז ניסן\soferStam\obj\x86\Debug\soferStam.GUI.frmHazmana.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כז ניסן\soferStam\obj\x86\Debug\soferStam.GUI.frmHespekim.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כז ניסן\soferStam\obj\x86\Debug\soferStam.GUI.frmInfo.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כז ניסן\soferStam\obj\x86\Debug\soferStam.GUI.frmKlaf.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כז ניסן\soferStam\obj\x86\Debug\soferStam.GUI.frmListAbodotStam.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כז ניסן\soferStam\obj\x86\Debug\soferStam.GUI.frmListHazmanot.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כז ניסן\soferStam\obj\x86\Debug\soferStam.GUI.frmListHespekim.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כז ניסן\soferStam\obj\x86\Debug\soferStam.GUI.frmListKlafim.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כז ניסן\soferStam\obj\x86\Debug\soferStam.GUI.frmListMazminim.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כז ניסן\soferStam\obj\x86\Debug\soferStam.GUI.frmListPirtieHazmana.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כז ניסן\soferStam\obj\x86\Debug\soferStam.GUI.frmListSogKlaf.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כז ניסן\soferStam\obj\x86\Debug\soferStam.GUI.frmMazmin.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כז ניסן\soferStam\obj\x86\Debug\soferStam.GUI.frmPirteHazmana.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כז ניסן\soferStam\obj\x86\Debug\soferStam.GUI.frmSogKlaf.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כז ניסן\soferStam\obj\x86\Debug\soferStam.Properties.Resources.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כז ניסן\soferStam\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כז ניסן\soferStam\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כג אייר\soferStam\obj\x86\Debug\soferStam.exe
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כג אייר\soferStam\obj\x86\Debug\soferStam.pdb
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כג אייר\soferStam\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כג אייר\soferStam\obj\x86\Debug\soferStam.GUI.Form1.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כג אייר\soferStam\obj\x86\Debug\soferStam.GUI.frmAbodatStam.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כג אייר\soferStam\obj\x86\Debug\soferStam.GUI.frmHazmana.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כג אייר\soferStam\obj\x86\Debug\soferStam.GUI.frmHespekim.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כג אייר\soferStam\obj\x86\Debug\soferStam.GUI.frmInfo.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כג אייר\soferStam\obj\x86\Debug\soferStam.GUI.frmKlaf.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כג אייר\soferStam\obj\x86\Debug\soferStam.GUI.frmListAbodotStam.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כג אייר\soferStam\obj\x86\Debug\soferStam.GUI.frmListHazmanot.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כג אייר\soferStam\obj\x86\Debug\soferStam.GUI.frmListHespekim.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כג אייר\soferStam\obj\x86\Debug\soferStam.GUI.frmListKlafim.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כג אייר\soferStam\obj\x86\Debug\soferStam.GUI.frmListMazminim.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כג אייר\soferStam\obj\x86\Debug\soferStam.GUI.frmListPirtieHazmana.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כג אייר\soferStam\obj\x86\Debug\soferStam.GUI.frmListSogKlaf.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כג אייר\soferStam\obj\x86\Debug\soferStam.GUI.frmMazmin.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כג אייר\soferStam\obj\x86\Debug\soferStam.GUI.frmPirteHazmana.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כג אייר\soferStam\obj\x86\Debug\soferStam.GUI.frmSogKlaf.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כג אייר\soferStam\obj\x86\Debug\soferStam.Properties.Resources.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כג אייר\soferStam\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כג אייר\soferStam\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כג אייר\soferStam\bin\Debug\soferStam.exe
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כג אייר\soferStam\bin\Debug\soferStam.pdb
+C:\Users\rony\Desktop\כג אייר\soferStam\bin\Debug\soferStam.exe
+C:\Users\rony\Desktop\כג אייר\soferStam\bin\Debug\soferStam.pdb
+C:\Users\rony\Desktop\כג אייר\soferStam\obj\x86\Debug\soferStam.GUI.Form1.resources
+C:\Users\rony\Desktop\כג אייר\soferStam\obj\x86\Debug\soferStam.GUI.frmAbodatStam.resources
+C:\Users\rony\Desktop\כג אייר\soferStam\obj\x86\Debug\soferStam.GUI.frmHazmana.resources
+C:\Users\rony\Desktop\כג אייר\soferStam\obj\x86\Debug\soferStam.GUI.frmHespekim.resources
+C:\Users\rony\Desktop\כג אייר\soferStam\obj\x86\Debug\soferStam.GUI.frmInfo.resources
+C:\Users\rony\Desktop\כג אייר\soferStam\obj\x86\Debug\soferStam.GUI.frmKlaf.resources
+C:\Users\rony\Desktop\כג אייר\soferStam\obj\x86\Debug\soferStam.GUI.frmListAbodotStam.resources
+C:\Users\rony\Desktop\כג אייר\soferStam\obj\x86\Debug\soferStam.GUI.frmListHazmanot.resources
+C:\Users\rony\Desktop\כג אייר\soferStam\obj\x86\Debug\soferStam.GUI.frmListHespekim.resources
+C:\Users\rony\Desktop\כג אייר\soferStam\obj\x86\Debug\soferStam.GUI.frmListKlafim.resources
+C:\Users\rony\Desktop\כג אייר\soferStam\obj\x86\Debug\soferStam.GUI.frmListMazminim.resources
+C:\Users\rony\Desktop\כג אייר\soferStam\obj\x86\Debug\soferStam.GUI.frmListPirtieHazmana.resources
+C:\Users\rony\Desktop\כג אייר\soferStam\obj\x86\Debug\soferStam.GUI.frmListSogKlaf.resources
+C:\Users\rony\Desktop\כג אייר\soferStam\obj\x86\Debug\soferStam.GUI.frmMazmin.resources
+C:\Users\rony\Desktop\כג אייר\soferStam\obj\x86\Debug\soferStam.GUI.frmPirteHazmana.resources
+C:\Users\rony\Desktop\כג אייר\soferStam\obj\x86\Debug\soferStam.GUI.frmSogKlaf.resources
+C:\Users\rony\Desktop\כג אייר\soferStam\obj\x86\Debug\soferStam.Properties.Resources.resources
+C:\Users\rony\Desktop\כג אייר\soferStam\obj\x86\Debug\soferStam.csproj.GenerateResource.Cache
+C:\Users\rony\Desktop\כג אייר\soferStam\obj\x86\Debug\soferStam.csproj.CoreCompileInputs.cache
+C:\Users\rony\Desktop\כג אייר\soferStam\obj\x86\Debug\soferStam.exe
+C:\Users\rony\Desktop\כג אייר\soferStam\obj\x86\Debug\soferStam.pdb
+C:\Users\rony\Desktop\כה אייר\soferStam\bin\Debug\soferStam.exe
+C:\Users\rony\Desktop\כה אייר\soferStam\bin\Debug\soferStam.pdb
+C:\Users\rony\Desktop\כה אייר\soferStam\obj\x86\Debug\soferStam.GUI.Form1.resources
+C:\Users\rony\Desktop\כה אייר\soferStam\obj\x86\Debug\soferStam.GUI.frmAbodatStam.resources
+C:\Users\rony\Desktop\כה אייר\soferStam\obj\x86\Debug\soferStam.GUI.frmHazmana.resources
+C:\Users\rony\Desktop\כה אייר\soferStam\obj\x86\Debug\soferStam.GUI.frmHespekim.resources
+C:\Users\rony\Desktop\כה אייר\soferStam\obj\x86\Debug\soferStam.GUI.frmInfo.resources
+C:\Users\rony\Desktop\כה אייר\soferStam\obj\x86\Debug\soferStam.GUI.frmKlaf.resources
+C:\Users\rony\Desktop\כה אייר\soferStam\obj\x86\Debug\soferStam.GUI.frmListAbodotStam.resources
+C:\Users\rony\Desktop\כה אייר\soferStam\obj\x86\Debug\soferStam.GUI.frmListHazmanot.resources
+C:\Users\rony\Desktop\כה אייר\soferStam\obj\x86\Debug\soferStam.GUI.frmListHespekim.resources
+C:\Users\rony\Desktop\כה אייר\soferStam\obj\x86\Debug\soferStam.GUI.frmListKlafim.resources
+C:\Users\rony\Desktop\כה אייר\soferStam\obj\x86\Debug\soferStam.GUI.frmListMazminim.resources
+C:\Users\rony\Desktop\כה אייר\soferStam\obj\x86\Debug\soferStam.GUI.frmListPirtieHazmana.resources
+C:\Users\rony\Desktop\כה אייר\soferStam\obj\x86\Debug\soferStam.GUI.frmListSogKlaf.resources
+C:\Users\rony\Desktop\כה אייר\soferStam\obj\x86\Debug\soferStam.GUI.frmMazmin.resources
+C:\Users\rony\Desktop\כה אייר\soferStam\obj\x86\Debug\soferStam.GUI.frmPirteHazmana.resources
+C:\Users\rony\Desktop\כה אייר\soferStam\obj\x86\Debug\soferStam.GUI.frmSogKlaf.resources
+C:\Users\rony\Desktop\כה אייר\soferStam\obj\x86\Debug\soferStam.Properties.Resources.resources
+C:\Users\rony\Desktop\כה אייר\soferStam\obj\x86\Debug\soferStam.csproj.GenerateResource.Cache
+C:\Users\rony\Desktop\כה אייר\soferStam\obj\x86\Debug\soferStam.csproj.CoreCompileInputs.cache
+C:\Users\rony\Desktop\כה אייר\soferStam\obj\x86\Debug\soferStam.exe
+C:\Users\rony\Desktop\כה אייר\soferStam\obj\x86\Debug\soferStam.pdb
+C:\Users\rony\Desktop\כה אייר\soferStam\obj\x86\Debug\soferStam.csprojResolveAssemblyReference.cache
+C:\Users\rony\Desktop\מחשבים שמחה בן דוד\כז אייר\soferStam\bin\Debug\soferStam.exe
+C:\Users\rony\Desktop\מחשבים שמחה בן דוד\כז אייר\soferStam\bin\Debug\soferStam.pdb
+C:\Users\rony\Desktop\מחשבים שמחה בן דוד\כז אייר\soferStam\obj\x86\Debug\soferStam.csprojResolveAssemblyReference.cache
+C:\Users\rony\Desktop\מחשבים שמחה בן דוד\כז אייר\soferStam\obj\x86\Debug\soferStam.GUI.Form1.resources
+C:\Users\rony\Desktop\מחשבים שמחה בן דוד\כז אייר\soferStam\obj\x86\Debug\soferStam.GUI.frmAbodatStam.resources
+C:\Users\rony\Desktop\מחשבים שמחה בן דוד\כז אייר\soferStam\obj\x86\Debug\soferStam.GUI.frmHazmana.resources
+C:\Users\rony\Desktop\מחשבים שמחה בן דוד\כז אייר\soferStam\obj\x86\Debug\soferStam.GUI.frmHespekim.resources
+C:\Users\rony\Desktop\מחשבים שמחה בן דוד\כז אייר\soferStam\obj\x86\Debug\soferStam.GUI.frmInfo.resources
+C:\Users\rony\Desktop\מחשבים שמחה בן דוד\כז אייר\soferStam\obj\x86\Debug\soferStam.GUI.frmKlaf.resources
+C:\Users\rony\Desktop\מחשבים שמחה בן דוד\כז אייר\soferStam\obj\x86\Debug\soferStam.GUI.frmListAbodotStam.resources
+C:\Users\rony\Desktop\מחשבים שמחה בן דוד\כז אייר\soferStam\obj\x86\Debug\soferStam.GUI.frmListHazmanot.resources
+C:\Users\rony\Desktop\מחשבים שמחה בן דוד\כז אייר\soferStam\obj\x86\Debug\soferStam.GUI.frmListHespekim.resources
+C:\Users\rony\Desktop\מחשבים שמחה בן דוד\כז אייר\soferStam\obj\x86\Debug\soferStam.GUI.frmListKlafim.resources
+C:\Users\rony\Desktop\מחשבים שמחה בן דוד\כז אייר\soferStam\obj\x86\Debug\soferStam.GUI.frmListMazminim.resources
+C:\Users\rony\Desktop\מחשבים שמחה בן דוד\כז אייר\soferStam\obj\x86\Debug\soferStam.GUI.frmListPirtieHazmana.resources
+C:\Users\rony\Desktop\מחשבים שמחה בן דוד\כז אייר\soferStam\obj\x86\Debug\soferStam.GUI.frmListSogKlaf.resources
+C:\Users\rony\Desktop\מחשבים שמחה בן דוד\כז אייר\soferStam\obj\x86\Debug\soferStam.GUI.frmMazmin.resources
+C:\Users\rony\Desktop\מחשבים שמחה בן דוד\כז אייר\soferStam\obj\x86\Debug\soferStam.GUI.frmPirteHazmana.resources
+C:\Users\rony\Desktop\מחשבים שמחה בן דוד\כז אייר\soferStam\obj\x86\Debug\soferStam.GUI.frmSogKlaf.resources
+C:\Users\rony\Desktop\מחשבים שמחה בן דוד\כז אייר\soferStam\obj\x86\Debug\soferStam.Properties.Resources.resources
+C:\Users\rony\Desktop\מחשבים שמחה בן דוד\כז אייר\soferStam\obj\x86\Debug\soferStam.csproj.GenerateResource.Cache
+C:\Users\rony\Desktop\מחשבים שמחה בן דוד\כז אייר\soferStam\obj\x86\Debug\soferStam.csproj.CoreCompileInputs.cache
+C:\Users\rony\Desktop\מחשבים שמחה בן דוד\כז אייר\soferStam\obj\x86\Debug\soferStam.exe
+C:\Users\rony\Desktop\מחשבים שמחה בן דוד\כז אייר\soferStam\obj\x86\Debug\soferStam.pdb
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כח אייר\soferStam\obj\x86\Debug\soferStam.exe
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כח אייר\soferStam\obj\x86\Debug\soferStam.pdb
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כח אייר\soferStam\bin\Debug\soferStam.exe
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כח אייר\soferStam\bin\Debug\soferStam.pdb
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כח אייר\soferStam\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כח אייר\soferStam\obj\x86\Debug\soferStam.GUI.Form1.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כח אייר\soferStam\obj\x86\Debug\soferStam.GUI.frmAbodatStam.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כח אייר\soferStam\obj\x86\Debug\soferStam.GUI.frmHazmana.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כח אייר\soferStam\obj\x86\Debug\soferStam.GUI.frmHespekim.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כח אייר\soferStam\obj\x86\Debug\soferStam.GUI.frmInfo.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כח אייר\soferStam\obj\x86\Debug\soferStam.GUI.frmKlaf.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כח אייר\soferStam\obj\x86\Debug\soferStam.GUI.frmListAbodotStam.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כח אייר\soferStam\obj\x86\Debug\soferStam.GUI.frmListHazmanot.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כח אייר\soferStam\obj\x86\Debug\soferStam.GUI.frmListHespekim.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כח אייר\soferStam\obj\x86\Debug\soferStam.GUI.frmListKlafim.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כח אייר\soferStam\obj\x86\Debug\soferStam.GUI.frmListMazminim.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כח אייר\soferStam\obj\x86\Debug\soferStam.GUI.frmListPirtieHazmana.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כח אייר\soferStam\obj\x86\Debug\soferStam.GUI.frmListSogKlaf.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כח אייר\soferStam\obj\x86\Debug\soferStam.GUI.frmMazmin.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כח אייר\soferStam\obj\x86\Debug\soferStam.GUI.frmPirteHazmana.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כח אייר\soferStam\obj\x86\Debug\soferStam.GUI.frmSogKlaf.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כח אייר\soferStam\obj\x86\Debug\soferStam.Properties.Resources.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כח אייר\soferStam\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כח אייר\soferStam\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\ט סיוון\soferStam\obj\x86\Debug\soferStam.exe
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\ט סיוון\soferStam\obj\x86\Debug\soferStam.pdb
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\ט סיוון\soferStam\bin\Debug\soferStam.exe
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\ט סיוון\soferStam\bin\Debug\soferStam.pdb
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\ט סיוון\soferStam\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\ט סיוון\soferStam\obj\x86\Debug\soferStam.GUI.Form1.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\ט סיוון\soferStam\obj\x86\Debug\soferStam.GUI.frmAbodatStam.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\ט סיוון\soferStam\obj\x86\Debug\soferStam.GUI.frmHazmana.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\ט סיוון\soferStam\obj\x86\Debug\soferStam.GUI.frmHespekim.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\ט סיוון\soferStam\obj\x86\Debug\soferStam.GUI.frmInfo.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\ט סיוון\soferStam\obj\x86\Debug\soferStam.GUI.frmKlaf.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\ט סיוון\soferStam\obj\x86\Debug\soferStam.GUI.frmListAbodotStam.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\ט סיוון\soferStam\obj\x86\Debug\soferStam.GUI.frmListHazmanot.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\ט סיוון\soferStam\obj\x86\Debug\soferStam.GUI.frmListHespekim.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\ט סיוון\soferStam\obj\x86\Debug\soferStam.GUI.frmListKlafim.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\ט סיוון\soferStam\obj\x86\Debug\soferStam.GUI.frmListMazminim.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\ט סיוון\soferStam\obj\x86\Debug\soferStam.GUI.frmListPirtieHazmana.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\ט סיוון\soferStam\obj\x86\Debug\soferStam.GUI.frmListSogKlaf.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\ט סיוון\soferStam\obj\x86\Debug\soferStam.GUI.frmMazmin.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\ט סיוון\soferStam\obj\x86\Debug\soferStam.GUI.frmPirteHazmana.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\ט סיוון\soferStam\obj\x86\Debug\soferStam.GUI.frmSogKlaf.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\ט סיוון\soferStam\obj\x86\Debug\soferStam.Properties.Resources.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\ט סיוון\soferStam\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\ט סיוון\soferStam\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\ט סיוון\soferStam\obj\x86\Debug\soferStam.GUI.frmMatalot.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\ט סיוון\soferStam\obj\x86\Debug\soferStam.GUI.frmHespekiHazmana.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\י סיון\soferStam\obj\x86\Debug\soferStam.exe
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\י סיון\soferStam\obj\x86\Debug\soferStam.pdb
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\י סיון\soferStam\bin\Debug\soferStam.exe
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\י סיון\soferStam\bin\Debug\soferStam.pdb
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\י סיון\soferStam\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\י סיון\soferStam\obj\x86\Debug\soferStam.GUI.Form1.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\י סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmAbodatStam.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\י סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmHazmana.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\י סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmHespekiHazmana.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\י סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmHespekim.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\י סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmInfo.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\י סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmKlaf.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\י סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmListAbodotStam.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\י סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmListHazmanot.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\י סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmListHespekim.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\י סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmListKlafim.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\י סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmListMazminim.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\י סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmListPirtieHazmana.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\י סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmListSogKlaf.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\י סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmMatalot.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\י סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmMazmin.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\י סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmPirteHazmana.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\י סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmSogKlaf.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\י סיון\soferStam\obj\x86\Debug\soferStam.Properties.Resources.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\י סיון\soferStam\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\י סיון\soferStam\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\י סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmHosafaKolectivit.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\טו סיון\soferStam\obj\x86\Debug\soferStam.exe
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\טו סיון\soferStam\obj\x86\Debug\soferStam.pdb
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\טו סיון\soferStam\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\טו סיון\soferStam\obj\x86\Debug\soferStam.GUI.Form1.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\טו סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmAbodatStam.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\טו סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmHazmana.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\טו סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmHespekiHazmana.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\טו סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmHespekim.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\טו סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmHosafaKolectivit.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\טו סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmInfo.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\טו סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmKlaf.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\טו סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmListAbodotStam.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\טו סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmListHazmanot.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\טו סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmListHespekim.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\טו סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmListKlafim.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\טו סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmListMazminim.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\טו סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmListPirtieHazmana.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\טו סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmListSogKlaf.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\טו סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmMatalot.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\טו סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmMazmin.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\טו סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmPirteHazmana.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\טו סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmSogKlaf.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\טו סיון\soferStam\obj\x86\Debug\soferStam.Properties.Resources.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\טו סיון\soferStam\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\טו סיון\soferStam\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\טו סיון\soferStam\bin\Debug\soferStam.exe
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\טו סיון\soferStam\bin\Debug\soferStam.pdb
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\טז סיון\soferStam\obj\x86\Debug\soferStam.exe
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\טז סיון\soferStam\obj\x86\Debug\soferStam.pdb
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\טז סיון\soferStam\bin\Debug\soferStam.exe
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\טז סיון\soferStam\bin\Debug\soferStam.pdb
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\טז סיון\soferStam\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\טז סיון\soferStam\obj\x86\Debug\soferStam.GUI.Form1.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\טז סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmAbodatStam.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\טז סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmHazmana.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\טז סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmHespekiHazmana.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\טז סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmHespekim.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\טז סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmHosafaKolectivit.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\טז סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmInfo.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\טז סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmKlaf.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\טז סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmListAbodotStam.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\טז סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmListHazmanot.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\טז סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmListHespekim.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\טז סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmListKlafim.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\טז סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmListMazminim.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\טז סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmListPirtieHazmana.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\טז סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmListSogKlaf.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\טז סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmMatalot.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\טז סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmMazmin.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\טז סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmPirteHazmana.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\טז סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmSogKlaf.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\טז סיון\soferStam\obj\x86\Debug\soferStam.Properties.Resources.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\טז סיון\soferStam\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\טז סיון\soferStam\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏יז סיון\soferStam\obj\x86\Debug\soferStam.exe
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏יז סיון\soferStam\obj\x86\Debug\soferStam.pdb
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏יז סיון\soferStam\bin\Debug\soferStam.exe
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏יז סיון\soferStam\bin\Debug\soferStam.pdb
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏יז סיון\soferStam\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏יז סיון\soferStam\obj\x86\Debug\soferStam.GUI.Form1.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏יז סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmAbodatStam.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏יז סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmHazmana.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏יז סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmHespekiHazmana.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏יז סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmHespekim.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏יז סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmHosafaKolectivit.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏יז סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmInfo.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏יז סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmKlaf.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏יז סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmListAbodotStam.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏יז סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmListHazmanot.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏יז סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmListHespekim.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏יז סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmListKlafim.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏יז סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmListMazminim.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏יז סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmListPirtieHazmana.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏יז סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmListSogKlaf.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏יז סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmMatalot.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏יז סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmMazmin.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏יז סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmPirteHazmana.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏יז סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmSogKlaf.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏יז סיון\soferStam\obj\x86\Debug\soferStam.Properties.Resources.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏יז סיון\soferStam\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏יז סיון\soferStam\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כ סיון\soferStam\obj\x86\Debug\soferStam.exe
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כ סיון\soferStam\obj\x86\Debug\soferStam.pdb
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כ סיון\soferStam\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כ סיון\soferStam\obj\x86\Debug\soferStam.GUI.Form1.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כ סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmAbodatStam.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כ סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmHazmana.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כ סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmHespekiHazmana.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כ סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmHespekim.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כ סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmHosafaKolectivit.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כ סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmInfo.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כ סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmKlaf.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כ סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmListAbodotStam.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כ סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmListHazmanot.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כ סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmListHespekim.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כ סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmListKlafim.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כ סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmListMazminim.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כ סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmListPirtieHazmana.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כ סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmListSogKlaf.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כ סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmMatalot.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כ סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmMazmin.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כ סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmPirteHazmana.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כ סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmSogKlaf.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כ סיון\soferStam\obj\x86\Debug\soferStam.Properties.Resources.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כ סיון\soferStam\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כ סיון\soferStam\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כ סיון\soferStam\bin\Debug\soferStam.exe
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כ סיון\soferStam\bin\Debug\soferStam.pdb
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ כא סיון\soferStam\obj\x86\Debug\soferStam.exe
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ כא סיון\soferStam\obj\x86\Debug\soferStam.pdb
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ כא סיון\soferStam\bin\Debug\soferStam.exe
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ כא סיון\soferStam\bin\Debug\soferStam.pdb
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ כא סיון\soferStam\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ כא סיון\soferStam\obj\x86\Debug\soferStam.GUI.Form1.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ כא סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmAbodatStam.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ כא סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmHazmana.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ כא סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmHespekiHazmana.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ כא סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmHespekim.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ כא סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmHosafaKolectivit.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ כא סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmInfo.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ כא סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmKlaf.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ כא סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmListAbodotStam.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ כא סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmListHazmanot.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ כא סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmListHespekim.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ כא סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmListKlafim.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ כא סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmListMazminim.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ כא סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmListPirtieHazmana.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ כא סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmListSogKlaf.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ כא סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmMatalot.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ כא סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmMazmin.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ כא סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmPirteHazmana.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ כא סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmSogKlaf.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ כא סיון\soferStam\obj\x86\Debug\soferStam.Properties.Resources.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ כא סיון\soferStam\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ כא סיון\soferStam\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏כא סיון חלק 2\soferStam\obj\x86\Debug\soferStam.exe
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏כא סיון חלק 2\soferStam\obj\x86\Debug\soferStam.pdb
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏כא סיון חלק 2\soferStam\bin\Debug\soferStam.exe
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏כא סיון חלק 2\soferStam\bin\Debug\soferStam.pdb
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏כא סיון חלק 2\soferStam\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏כא סיון חלק 2\soferStam\obj\x86\Debug\soferStam.GUI.Form1.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏כא סיון חלק 2\soferStam\obj\x86\Debug\soferStam.GUI.frmAbodatStam.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏כא סיון חלק 2\soferStam\obj\x86\Debug\soferStam.GUI.frmHazmana.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏כא סיון חלק 2\soferStam\obj\x86\Debug\soferStam.GUI.frmHespekiHazmana.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏כא סיון חלק 2\soferStam\obj\x86\Debug\soferStam.GUI.frmHespekim.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏כא סיון חלק 2\soferStam\obj\x86\Debug\soferStam.GUI.frmHosafaKolectivit.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏כא סיון חלק 2\soferStam\obj\x86\Debug\soferStam.GUI.frmInfo.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏כא סיון חלק 2\soferStam\obj\x86\Debug\soferStam.GUI.frmKlaf.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏כא סיון חלק 2\soferStam\obj\x86\Debug\soferStam.GUI.frmListAbodotStam.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏כא סיון חלק 2\soferStam\obj\x86\Debug\soferStam.GUI.frmListHazmanot.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏כא סיון חלק 2\soferStam\obj\x86\Debug\soferStam.GUI.frmListHespekim.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏כא סיון חלק 2\soferStam\obj\x86\Debug\soferStam.GUI.frmListKlafim.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏כא סיון חלק 2\soferStam\obj\x86\Debug\soferStam.GUI.frmListMazminim.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏כא סיון חלק 2\soferStam\obj\x86\Debug\soferStam.GUI.frmListPirtieHazmana.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏כא סיון חלק 2\soferStam\obj\x86\Debug\soferStam.GUI.frmListSogKlaf.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏כא סיון חלק 2\soferStam\obj\x86\Debug\soferStam.GUI.frmMatalot.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏כא סיון חלק 2\soferStam\obj\x86\Debug\soferStam.GUI.frmMazmin.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏כא סיון חלק 2\soferStam\obj\x86\Debug\soferStam.GUI.frmPirteHazmana.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏כא סיון חלק 2\soferStam\obj\x86\Debug\soferStam.GUI.frmSogKlaf.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏כא סיון חלק 2\soferStam\obj\x86\Debug\soferStam.Properties.Resources.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏כא סיון חלק 2\soferStam\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏כא סיון חלק 2\soferStam\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כב סיון\soferStam\obj\x86\Debug\soferStam.exe
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כב סיון\soferStam\obj\x86\Debug\soferStam.pdb
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כב סיון\soferStam\bin\Debug\soferStam.exe
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כב סיון\soferStam\bin\Debug\soferStam.pdb
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כב סיון\soferStam\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כב סיון\soferStam\obj\x86\Debug\soferStam.GUI.Form1.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כב סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmAbodatStam.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כב סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmHazmana.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כב סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmHespekiHazmana.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כב סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmHespekim.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כב סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmHosafaKolectivit.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כב סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmInfo.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כב סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmKlaf.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כב סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmListAbodotStam.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כב סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmListHazmanot.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כב סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmListHespekim.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כב סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmListKlafim.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כב סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmListMazminim.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כב סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmListPirtieHazmana.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כב סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmListSogKlaf.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כב סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmMatalot.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כב סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmMazmin.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כב סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmPirteHazmana.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כב סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmSogKlaf.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כב סיון\soferStam\obj\x86\Debug\soferStam.Properties.Resources.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כב סיון\soferStam\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כב סיון\soferStam\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏כג סיון\soferStam\obj\x86\Debug\soferStam.exe
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏כג סיון\soferStam\obj\x86\Debug\soferStam.pdb
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏כג סיון\soferStam\bin\Debug\soferStam.exe
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏כג סיון\soferStam\bin\Debug\soferStam.pdb
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏כג סיון\soferStam\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏כג סיון\soferStam\obj\x86\Debug\soferStam.GUI.Form1.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏כג סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmAbodatStam.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏כג סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmHazmana.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏כג סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmHespekiHazmana.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏כג סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmHespekim.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏כג סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmHosafaKolectivit.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏כג סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmInfo.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏כג סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmKlaf.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏כג סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmListAbodotStam.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏כג סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmListHazmanot.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏כג סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmListHespekim.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏כג סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmListKlafim.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏כג סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmListMazminim.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏כג סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmListPirtieHazmana.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏כג סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmListSogKlaf.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏כג סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmMatalot.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏כג סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmMazmin.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏כג סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmPirteHazmana.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏כג סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmSogKlaf.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏כג סיון\soferStam\obj\x86\Debug\soferStam.Properties.Resources.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏כג סיון\soferStam\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏כג סיון\soferStam\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏כד סיון\soferStam\obj\x86\Debug\soferStam.exe
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏כד סיון\soferStam\obj\x86\Debug\soferStam.pdb
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏כד סיון\soferStam\bin\Debug\soferStam.exe
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏כד סיון\soferStam\bin\Debug\soferStam.pdb
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏כד סיון\soferStam\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏כד סיון\soferStam\obj\x86\Debug\soferStam.GUI.Form1.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏כד סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmAbodatStam.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏כד סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmHazmana.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏כד סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmHespekiHazmana.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏כד סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmHespekim.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏כד סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmHosafaKolectivit.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏כד סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmInfo.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏כד סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmKlaf.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏כד סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmListAbodotStam.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏כד סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmListHazmanot.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏כד סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmListHespekim.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏כד סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmListKlafim.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏כד סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmListMazminim.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏כד סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmListPirtieHazmana.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏כד סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmListSogKlaf.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏כד סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmMatalot.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏כד סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmMazmin.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏כד סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmPirteHazmana.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏כד סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmSogKlaf.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏כד סיון\soferStam\obj\x86\Debug\soferStam.Properties.Resources.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏כד סיון\soferStam\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏כד סיון\soferStam\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כח סיון מתוקן\soferStam\obj\x86\Debug\soferStam.exe
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כח סיון מתוקן\soferStam\obj\x86\Debug\soferStam.pdb
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כח סיון מתוקן\soferStam\bin\Debug\soferStam.exe
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כח סיון מתוקן\soferStam\bin\Debug\soferStam.pdb
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כח סיון מתוקן\soferStam\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כח סיון מתוקן\soferStam\obj\x86\Debug\soferStam.GUI.Form1.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כח סיון מתוקן\soferStam\obj\x86\Debug\soferStam.GUI.frmAbodatStam.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כח סיון מתוקן\soferStam\obj\x86\Debug\soferStam.GUI.frmHazmana.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כח סיון מתוקן\soferStam\obj\x86\Debug\soferStam.GUI.frmHespekiHazmana.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כח סיון מתוקן\soferStam\obj\x86\Debug\soferStam.GUI.frmHespekim.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כח סיון מתוקן\soferStam\obj\x86\Debug\soferStam.GUI.frmHosafaKolectivit.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כח סיון מתוקן\soferStam\obj\x86\Debug\soferStam.GUI.frmInfo.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כח סיון מתוקן\soferStam\obj\x86\Debug\soferStam.GUI.frmKlaf.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כח סיון מתוקן\soferStam\obj\x86\Debug\soferStam.GUI.frmListAbodotStam.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כח סיון מתוקן\soferStam\obj\x86\Debug\soferStam.GUI.frmListHazmanot.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כח סיון מתוקן\soferStam\obj\x86\Debug\soferStam.GUI.frmListHespekim.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כח סיון מתוקן\soferStam\obj\x86\Debug\soferStam.GUI.frmListKlafim.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כח סיון מתוקן\soferStam\obj\x86\Debug\soferStam.GUI.frmListMazminim.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כח סיון מתוקן\soferStam\obj\x86\Debug\soferStam.GUI.frmListPirtieHazmana.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כח סיון מתוקן\soferStam\obj\x86\Debug\soferStam.GUI.frmListSogKlaf.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כח סיון מתוקן\soferStam\obj\x86\Debug\soferStam.GUI.frmMatalot.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כח סיון מתוקן\soferStam\obj\x86\Debug\soferStam.GUI.frmMazmin.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כח סיון מתוקן\soferStam\obj\x86\Debug\soferStam.GUI.frmPirteHazmana.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כח סיון מתוקן\soferStam\obj\x86\Debug\soferStam.GUI.frmSogKlaf.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כח סיון מתוקן\soferStam\obj\x86\Debug\soferStam.Properties.Resources.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כח סיון מתוקן\soferStam\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\כח סיון מתוקן\soferStam\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ ל סיון\soferStam\obj\x86\Debug\soferStam.exe
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ ל סיון\soferStam\obj\x86\Debug\soferStam.pdb
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ ל סיון\soferStam\bin\Debug\soferStam.exe
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ ל סיון\soferStam\bin\Debug\soferStam.pdb
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ ל סיון\soferStam\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ ל סיון\soferStam\obj\x86\Debug\soferStam.GUI.Form1.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ ל סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmAbodatStam.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ ל סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmHazmana.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ ל סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmHespekiHazmana.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ ל סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmHespekim.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ ל סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmHosafaKolectivit.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ ל סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmInfo.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ ל סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmKlaf.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ ל סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmListAbodotStam.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ ל סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmListHazmanot.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ ל סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmListHespekim.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ ל סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmListKlafim.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ ל סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmListMazminim.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ ל סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmListPirtieHazmana.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ ל סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmListSogKlaf.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ ל סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmMatalot.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ ל סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmMazmin.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ ל סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmPirteHazmana.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ ל סיון\soferStam\obj\x86\Debug\soferStam.GUI.frmSogKlaf.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ ל סיון\soferStam\obj\x86\Debug\soferStam.Properties.Resources.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ ל סיון\soferStam\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ ל סיון\soferStam\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ ל סיון\soferStam\obj\x86\Debug\soferStam.GUI.kabala.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\א תמוז\soferStam\obj\x86\Debug\soferStam.exe
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\א תמוז\soferStam\obj\x86\Debug\soferStam.pdb
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\א תמוז\soferStam\bin\Debug\soferStam.exe
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\א תמוז\soferStam\bin\Debug\soferStam.pdb
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\א תמוז\soferStam\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\א תמוז\soferStam\obj\x86\Debug\soferStam.GUI.Form1.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\א תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmAbodatStam.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\א תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmHazmana.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\א תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmHespekiHazmana.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\א תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmHespekim.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\א תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmHosafaKolectivit.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\א תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmInfo.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\א תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmKlaf.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\א תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmListAbodotStam.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\א תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmListHazmanot.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\א תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmListHespekim.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\א תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmListKlafim.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\א תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmListMazminim.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\א תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmListPirtieHazmana.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\א תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmListSogKlaf.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\א תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmMatalot.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\א תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmMazmin.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\א תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmPirteHazmana.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\א תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmSogKlaf.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\א תמוז\soferStam\obj\x86\Debug\soferStam.GUI.kabala.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\א תמוז\soferStam\obj\x86\Debug\soferStam.Properties.Resources.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\א תמוז\soferStam\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\א תמוז\soferStam\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ב תמוז\soferStam\obj\x86\Debug\soferStam.exe
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ב תמוז\soferStam\obj\x86\Debug\soferStam.pdb
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ב תמוז\soferStam\bin\Debug\soferStam.exe
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ב תמוז\soferStam\bin\Debug\soferStam.pdb
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ב תמוז\soferStam\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ב תמוז\soferStam\obj\x86\Debug\soferStam.GUI.Form1.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ב תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmAbodatStam.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ב תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmHazmana.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ב תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmHespekiHazmana.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ב תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmHespekim.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ב תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmHosafaKolectivit.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ב תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmInfo.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ב תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmKlaf.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ב תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmListAbodotStam.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ב תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmListHazmanot.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ב תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmListHespekim.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ב תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmListKlafim.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ב תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmListMazminim.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ב תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmListPirtieHazmana.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ב תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmListSogKlaf.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ב תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmMatalot.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ב תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmMazmin.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ב תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmPirteHazmana.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ב תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmSogKlaf.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ב תמוז\soferStam\obj\x86\Debug\soferStam.GUI.kabala.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ב תמוז\soferStam\obj\x86\Debug\soferStam.Properties.Resources.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ב תמוז\soferStam\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ב תמוז\soferStam\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ה תמוז\soferStam\obj\x86\Debug\soferStam.exe
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ה תמוז\soferStam\obj\x86\Debug\soferStam.pdb
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ה תמוז\soferStam\bin\Debug\soferStam.exe
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ה תמוז\soferStam\bin\Debug\soferStam.pdb
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ה תמוז\soferStam\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ה תמוז\soferStam\obj\x86\Debug\soferStam.GUI.Form1.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ה תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmAbodatStam.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ה תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmHazmana.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ה תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmHespekiHazmana.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ה תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmHespekim.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ה תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmHosafaKolectivit.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ה תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmInfo.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ה תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmKlaf.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ה תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmListAbodotStam.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ה תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmListHazmanot.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ה תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmListHespekim.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ה תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmListKlafim.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ה תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmListMazminim.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ה תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmListPirtieHazmana.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ה תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmListSogKlaf.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ה תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmMasHacnasa.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ה תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmMatalot.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ה תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmMazmin.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ה תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmPirteHazmana.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ה תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmSogKlaf.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ה תמוז\soferStam\obj\x86\Debug\soferStam.GUI.kabala.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ה תמוז\soferStam\obj\x86\Debug\soferStam.Properties.Resources.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ה תמוז\soferStam\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ה תמוז\soferStam\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ו תמוז\soferStam\obj\x86\Debug\soferStam.exe
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ו תמוז\soferStam\obj\x86\Debug\soferStam.pdb
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ו תמוז\soferStam\bin\Debug\soferStam.exe
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ו תמוז\soferStam\bin\Debug\soferStam.pdb
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ו תמוז\soferStam\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ו תמוז\soferStam\obj\x86\Debug\soferStam.GUI.Form1.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ו תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmAbodatStam.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ו תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmHazmana.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ו תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmHespekiHazmana.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ו תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmHespekim.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ו תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmHosafaKolectivit.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ו תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmInfo.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ו תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmKlaf.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ו תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmListAbodotStam.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ו תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmListHazmanot.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ו תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmListHespekim.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ו תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmListKlafim.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ו תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmListMazminim.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ו תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmListPirtieHazmana.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ו תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmListSogKlaf.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ו תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmMasHacnasa.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ו תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmMatalot.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ו תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmMazmin.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ו תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmPirteHazmana.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ו תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmSogKlaf.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ו תמוז\soferStam\obj\x86\Debug\soferStam.GUI.kabala.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ו תמוז\soferStam\obj\x86\Debug\soferStam.Properties.Resources.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ו תמוז\soferStam\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ו תמוז\soferStam\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ז תמוז\soferStam\obj\x86\Debug\soferStam.exe
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ז תמוז\soferStam\obj\x86\Debug\soferStam.pdb
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ז תמוז\soferStam\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ז תמוז\soferStam\obj\x86\Debug\soferStam.GUI.Form1.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ז תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmAbodatStam.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ז תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmHazmana.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ז תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmHespekiHazmana.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ז תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmHespekim.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ז תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmHosafaKolectivit.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ז תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmInfo.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ז תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmKlaf.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ז תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmListAbodotStam.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ז תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmListHazmanot.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ז תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmListHespekim.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ז תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmListKlafim.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ז תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmListMazminim.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ז תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmListPirtieHazmana.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ז תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmListSogKlaf.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ז תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmMasHacnasa.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ז תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmMatalot.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ז תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmMazmin.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ז תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmPirteHazmana.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ז תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmSogKlaf.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ז תמוז\soferStam\obj\x86\Debug\soferStam.GUI.kabala.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ז תמוז\soferStam\obj\x86\Debug\soferStam.Properties.Resources.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ז תמוז\soferStam\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ז תמוז\soferStam\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ז תמוז\soferStam\bin\Debug\soferStam.exe
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ז תמוז\soferStam\bin\Debug\soferStam.pdb
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ח תמוז\soferStam\obj\x86\Debug\soferStam.exe
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ח תמוז\soferStam\obj\x86\Debug\soferStam.pdb
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ח תמוז\soferStam\bin\Debug\soferStam.exe
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ח תמוז\soferStam\bin\Debug\soferStam.pdb
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ח תמוז\soferStam\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ח תמוז\soferStam\obj\x86\Debug\soferStam.GUI.Form1.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ח תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmAbodatStam.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ח תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmHazmana.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ח תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmHespekiHazmana.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ח תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmHespekim.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ח תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmHosafaKolectivit.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ח תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmInfo.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ח תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmKlaf.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ח תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmListAbodotStam.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ח תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmListHazmanot.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ח תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmListHespekim.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ח תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmListKlafim.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ח תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmListMazminim.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ח תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmListPirtieHazmana.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ח תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmListSogKlaf.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ח תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmMasHacnasa.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ח תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmMatalot.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ח תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmMazmin.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ח תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmPirteHazmana.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ח תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmSogKlaf.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ח תמוז\soferStam\obj\x86\Debug\soferStam.GUI.kabala.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ח תמוז\soferStam\obj\x86\Debug\soferStam.Properties.Resources.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ח תמוז\soferStam\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏ח תמוז\soferStam\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏יא תמוז\soferStam\obj\x86\Debug\soferStam.exe
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏יא תמוז\soferStam\obj\x86\Debug\soferStam.pdb
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏יא תמוז\soferStam\bin\Debug\soferStam.exe
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏יא תמוז\soferStam\bin\Debug\soferStam.pdb
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏יא תמוז\soferStam\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏יא תמוז\soferStam\obj\x86\Debug\soferStam.GUI.Form1.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏יא תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmAbodatStam.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏יא תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmHazmana.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏יא תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmHespekiHazmana.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏יא תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmHespekim.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏יא תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmHosafaKolectivit.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏יא תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmInfo.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏יא תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmKlaf.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏יא תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmListAbodotStam.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏יא תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmListHazmanot.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏יא תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmListHespekim.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏יא תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmListKlafim.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏יא תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmListMazminim.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏יא תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmListPirtieHazmana.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏יא תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmListSogKlaf.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏יא תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmMasHacnasa.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏יא תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmMatalot.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏יא תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmMazmin.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏יא תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmPirteHazmana.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏יא תמוז\soferStam\obj\x86\Debug\soferStam.GUI.frmSogKlaf.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏יא תמוז\soferStam\obj\x86\Debug\soferStam.GUI.kabala.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏יא תמוז\soferStam\obj\x86\Debug\soferStam.Properties.Resources.resources
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏יא תמוז\soferStam\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Documents and Settings\All Users\My Documents\‏‏עותק של soferStam\‏‏יא תמוז\soferStam\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\LUSTIG\SECONDYEAR\FIRSTSEMESTER\מיני פרויקט במערכת חלונות\סופר סתם- פרויקט תיכון 2018\‏‏יא תמוז\soferStam\obj\x86\Debug\soferStam.csprojAssemblyReference.cache
+D:\LUSTIG\SECONDYEAR\FIRSTSEMESTER\מיני פרויקט במערכת חלונות\סופר סתם- פרויקט תיכון 2018\‏‏יא תמוז\soferStam\obj\x86\Debug\soferStam.exe
+D:\LUSTIG\SECONDYEAR\FIRSTSEMESTER\מיני פרויקט במערכת חלונות\סופר סתם- פרויקט תיכון 2018\‏‏יא תמוז\soferStam\obj\x86\Debug\soferStam.pdb
